@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-09-02T08:11:34Z" name="EdurekaModule" finished-at="2018-09-02T08:12:17Z" duration-ms="43863">
+    <groups>
+    </groups>
+    <test started-at="2018-09-02T08:11:34Z" name="Picture Upload_Edureka" finished-at="2018-09-02T08:12:17Z" duration-ms="43863">
+      <class name="com.edureka.tests.TestMain">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.edureka.tests.TestMain@18df8434]" started-at="2018-09-02T08:11:34Z" name="setup" finished-at="2018-09-02T08:11:45Z" duration-ms="11552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginEdureka()[pri:1, instance:com.edureka.tests.TestMain@18df8434]" started-at="2018-09-02T08:11:45Z" name="loginEdureka" finished-at="2018-09-02T08:11:49Z" duration-ms="3558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginEdureka -->
+        <test-method signature="goToMyProfilePage()[pri:2, instance:com.edureka.tests.TestMain@18df8434]" started-at="2018-09-02T08:11:49Z" name="goToMyProfilePage" finished-at="2018-09-02T08:12:05Z" duration-ms="15881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToMyProfilePage -->
+        <test-method signature="editIconClick()[pri:3, instance:com.edureka.tests.TestMain@18df8434]" started-at="2018-09-02T08:12:05Z" name="editIconClick" finished-at="2018-09-02T08:12:05Z" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editIconClick -->
+        <test-method signature="uploadPicture()[pri:4, instance:com.edureka.tests.TestMain@18df8434]" started-at="2018-09-02T08:12:05Z" name="uploadPicture" finished-at="2018-09-02T08:12:15Z" duration-ms="9815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadPicture -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.edureka.tests.TestMain@18df8434]" started-at="2018-09-02T08:12:15Z" name="closeBrowser" finished-at="2018-09-02T08:12:17Z" duration-ms="2651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.edureka.tests.TestMain -->
+    </test> <!-- Picture Upload_Edureka -->
+  </suite> <!-- EdurekaModule -->
+</testng-results>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [EdurekaModule]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Picture Upload_Edureka(failed)">
+    <classes>
+      <class name="com.edureka.tests.TestMain">
+        <methods>
+          <include name="setup"/>
+          <include name="uploadPicture"/>
+        </methods>
+      </class> <!-- com.edureka.tests.TestMain -->
+    </classes>
+  </test> <!-- Picture Upload_Edureka(failed) -->
+</suite> <!-- Failed suite [EdurekaModule] -->
